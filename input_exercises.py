@@ -1,3 +1,5 @@
+# This exercise creates a band name based on your city and pet names.
+print("Let's creates a band name based on your city and pet names")
 #1. Create a greeting for your program.
 print("Welco0me to the band name generator")
 #2. Ask the user for the city that they grew up in.
@@ -6,3 +8,4 @@ city = input("What is the name of the city where you grew up?\n")
 petname = input("What is you pet's name?\n")
 #4. Combine the name of their city and pet and show them their band name.
 print(f"Your band name would be:\n {city} {petname}")
+print('End!')
